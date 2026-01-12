@@ -88,7 +88,7 @@ print("[UI] Ctrl toggle enabled")
 -- CONFIG
 --==============================================================
 local WEBHOOK_URL = "https://discord.com/api/webhooks/1459303843098660894/i6bhclt6eqTia1i7D52tecEkCTo-1Zl5b_bZOmth6NBmfwzSoEY1nCQLw4mB3lbH-m7j"
-local WHITELIST_URL = "https://raw.githubusercontent.com/gyuard/hub/refs/heads/main/guard.Lua"
+local WHITELIST_URL = "https://raw.githubusercontent.com/chromeuser1010/lol/refs/heads/main/hwid"
 
 --==============================================================
 -- HWID (single source of truth)
